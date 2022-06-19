@@ -31,6 +31,7 @@ main div {
 .item-a{
     background-color: #eb5020;
     grid-area: a;
+    height: 100px;
 }
 
 .item-b {
@@ -41,6 +42,8 @@ main div {
 .item-c {
     background-color: #06aa42;
     grid-area: c;
+    height: 100px;
+
 }
 
 .item-d {
